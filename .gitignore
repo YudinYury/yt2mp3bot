@@ -7,8 +7,8 @@
 *.rtf
 .env
 
-.idea/
+.idea
 .DS_Store
-.node_modules
-.config
-.scripts
+config
+scripts
+node_modules
