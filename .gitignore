@@ -5,9 +5,10 @@
 *.mdl
 *.7z
 *.rtf
+.env
 
 .idea/
 .DS_Store
-node_modules
-config
-scripts
+.node_modules
+.config
+.scripts
