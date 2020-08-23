@@ -1,0 +1,13 @@
+{
+    "extends": "@dsm/frontend-code-style/tsconfig-backend.json",
+    "include": ["src", "test", "test.ts", "scripts", "db-generated.ts", "sqlTypes", "sqlTypesOverride"],
+    "compilerOptions": {
+      "noErrorTruncation": true,
+      "target": "ES2020",
+      "lib": ["ES2020"],
+      "outDir": "build",
+      "strict": true,
+      "emitDecoratorMetadata": true,
+      "isolatedModules": false,
+    }
+}
