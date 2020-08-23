@@ -1,0 +1,13 @@
+*.txt
+*.json
+*.json
+*.log
+*.mdl
+*.7z
+*.rtf
+
+.idea/
+.DS_Store
+node_modules
+config
+scripts
